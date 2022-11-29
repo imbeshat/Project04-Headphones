@@ -15,7 +15,7 @@ body {
 /* ------------- CSS for nav bar --------------  */
 
 nav {
-	padding: 20px 10%;
+	padding: 20px 154px;
 	height: 15vh;
 }
 
@@ -26,7 +26,7 @@ nav ul {
 
 nav ul li {
 	list-style: none;
-	margin-right: 5%;
+	margin-right: 62px;
 	font-weight: 400;
 }
 
@@ -36,7 +36,7 @@ main {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-left: 10%;
+	margin-left: 155px;
 }
 
 .leftmain {
@@ -49,7 +49,7 @@ main {
 }
 
 .leftmain p {
-	margin: 5% 5px;
+	margin: 32px 5px;
 	font-size: 15px;
 }
 
@@ -69,12 +69,12 @@ main {
 }
 
 .top-left {
-	width: 35%;
+	width: 15vw;
 	padding: 8px 8px;
 }
 
 .bottom-image {
-	width: 68%;
-	margin-left: 10px;
+	width: 29vw;
+	margin-left: 12px;
 	margin-top: 5px;
 }
