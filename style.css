@@ -17,12 +17,12 @@ body {
 /* ------------- CSS for nav bar --------------  */
 
 nav {
-	padding: 20px 154px;
-	height: 15vh;
+	padding: 20px 0;
 }
 
 nav ul {
 	display: flex;
+	justify-content: flex-start;
 	align-items: center;
 }
 
