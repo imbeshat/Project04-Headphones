@@ -36,23 +36,24 @@ nav ul li {
 
 main {
 	display: flex;
-	align-items: center;
 	justify-content: center;
-	margin-left: 155px;
+	align-items: center;
+	margin-top: 80px;
 }
 
 .leftmain {
-	width: 50%;
-	margin-top: 100px;
+	width: 60%;
 }
 
 .leftmain h1 {
 	font-size: 60px;
+	width: 80%;
 }
 
 .leftmain p {
 	margin: 32px 5px;
 	font-size: 15px;
+	font-weight: 500;
 }
 
 .leftmain button {
@@ -63,11 +64,11 @@ main {
 	color: white;
 	font-weight: 600;
 	margin: 0 5px;
+	letter-spacing: 0.5px;
 }
 
 .rightmain {
 	width: 50%;
-	margin-right: 50px;
 }
 
 .top-left {
